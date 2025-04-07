@@ -1,6 +1,6 @@
 
 # 📊 Sales Forecasting Project 📈
-![image alt]()
+![image alt](https://github.com/SyedAliNice/Sales-forecast/blob/0b5079f32e3ef2918c0d286329493beebbc53795/a-digital-illustration-of-a-modern-busin_QVg0fh3wTVe7nwSta5HEVg_QsHiBmfORbqy_brLBQ3jyg-fotor-20250407121650.jpg)
 #   📚 Project Overview
 This project focuses on predicting sales across multiple restaurants based on historical sales data. It involves using machine learning and deep learning models to analyze trends and forecast future sales. The primary goal is to help restaurant managers make better business decisions by predicting sales more accurately.
 
